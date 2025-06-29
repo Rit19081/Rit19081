@@ -9,11 +9,19 @@ I'm a full-stack developer and ML enthusiast currently working on:
 - 🌐 Web: Node.js, MongoDB, Express.js, React.js
 - 💻 Languages: C++, Python, JavaScript
 
-### 📊 GitHub Stats:
-![Rit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rit19081&show_icons=true&theme=radical)
+### 📚 Most Used Languages
 
-### 🌱 Fun Fact:
-I once made a Batman fan page that had background music and secret Easter eggs 🦇
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rit19081&layout=compact&theme=tokyonight)
+
+
+### 🌱 Fun Fact
+🦇 I built a [Batman fan page](https://rit19081.github.io/Batman-website/) with:
+
+- 🎵 Background music toggle
+- 🕵️‍♂️ Secret Easter eggs
+- 🖤 Dark and Gotham-style aesthetics
+
+> "Because he's the hero GitHub deserves... but not the one it needs right now." — *Me, probably*
 
 ---
-📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
+📫 Reach me at: [harichandan.rit@gmail.com](mailto:harichandan.rit@gmail.com)
