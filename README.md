@@ -10,7 +10,7 @@ I'm a full-stack developer and ML enthusiast currently working on:
 - 💻 Languages: C++, Python, JavaScript
 
 ### 📊 GitHub Stats:
-![Rit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Rit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rit19081&show_icons=true&theme=radical)
 
 ### 🌱 Fun Fact:
 I once made a Batman fan page that had background music and secret Easter eggs 🦇
