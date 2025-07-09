@@ -6,13 +6,13 @@ I'm a **Full-Stack Developer** with a strong foundation in **SQL, Data Analysis*
 - 🧠 **Depression Detection** using NLP + ML on **DAIC-WOZ + Reddit** datasets  
 - 🎮 **C++ Game Development** with **SFML**  
 - 🏗️ **Data Warehouse Project** using SQL (ETL pipelines, Star Schema, Fact-Dimension modeling)  
-- 📊 **Exploratory Data Analysis & Advanced Analytics** using Pandas, Matplotlib, Seaborn
+- 📊 **Exploratory Data Analysis & Advanced Analytics** 
 
 ---
 
 ### 🔧 Tech Stack
 
-- 🛢️ **Data & SQL**: SQL (Joins, Window Functions, CTEs), Power BI, Excel, Data Modeling  
+- 🛢️ **Data & SQL**: SQL (Joins, Window Functions, CTEs), 
 - 🌐 **Web**: Node.js, Express.js, MongoDB, React.js  
 - 💻 **Languages**: C++, Python, JavaScript  
 - 🧠 **ML (project-based)**: PyTorch, TensorFlow, scikit-learn  
